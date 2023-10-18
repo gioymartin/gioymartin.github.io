@@ -249,8 +249,8 @@ $(document).ready(function () {
       )
     );
 
-    $.post(
-      "https://script.google.com/macros/s/AKfycbyuCEISbCBLpz6kokxtIPWV9OYSrusKqHIZFFUySQk_lBI4J7QtKmhXE_yR1C4jbN_auQ/exec",
+    $.post(      
+      "https://script.google.com/macros/s/AKfycbzs3g8BjzGUE7QX0cTGO-PgDymVCPN8HDGc0nrs2Uy-NdM33Aa7wQmhR4EzOBipjjIMhQ/exec",
       data
     )
       .done(function (data) {
